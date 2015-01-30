@@ -1,4 +1,6 @@
-# Classification of Movie Reviews using Character N-gram
+# Semantic Analysis of Movie Reviews using Character N-gram
+
+In this project, semantic analysis of movie reviews is done by using character n-gram. The review data is in the folder `data`. Reviews in `data/pos` are semantically positive, while reviews in `data/neg` are semantically negative. Leave-one-out cross validation is implemented to test the accuracy of both `out-of-place measure` and `Naive Bayes classifier`.
 
 This project is implemented in Python. To run this program, you need Python 2.7 installed.
 
