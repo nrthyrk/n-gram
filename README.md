@@ -4,16 +4,14 @@ In this project, semantic analysis of movie reviews is done by using character [
 
 An introduction of this project can be found at the [wiki](https://github.com/halfvim/N-Gram/wiki/Introduction) page.
 
-This project is implemented in Python. To run this program, you need Python 2.7 installed.
+This project is implemented in Python 2.
 
-To run the program, open terminal in Mac OS X or Linux, open console window in Windows, change the directory to the project directory.
-
-Then use the following command to run the program:
+To run the program, open terminal(console) in Mac OS X or Linux(Windows), change the directory to the project directory, then use the following command to run the program:
 ```
 python ngram.py alg gram-n start end
 ```
 
-There are four parameters in this command: `alg`, `gram-n`, `start`, and `end`. They have the following meanings:
+There are four parameters in this command: `alg`, `gram-n`, `start`, and `end`:
 
 -	`alg`: the algorithm chosen, could be "oop" or "nb". "oop" represents out-of-place measure, while "nb" represents Naive Bayes classifier.
 -	`gram-n`: the value of N in N-gram, could be any positive integer. However, integers between 2 and 9 is recommanded.
