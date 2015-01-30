@@ -6,7 +6,7 @@ An introduction of this project can be found at the [wiki](https://github.com/ha
 
 This project is implemented in Python 2.
 
-To run the program, open terminal(console) in Mac OS X or Linux(Windows), change the directory to the project directory, then use the following command to run the program:
+To run the program, open terminal (console) in Mac OS X or Linux (Windows), change the directory to the project directory, then use the following command to run the program:
 ```
 python ngram.py alg gram-n start end
 ```
