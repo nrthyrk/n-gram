@@ -2,6 +2,8 @@
 
 In this project, semantic analysis of movie reviews is done by using character n-gram. The review data is in the folder `data`. Reviews in `data/pos` are semantically positive, while reviews in `data/neg` are semantically negative. Leave-one-out cross validation is implemented to test the accuracy of both `out-of-place measure` and `Naive Bayes classifier`.
 
+An introduction of this project can be found at the [wiki](https://github.com/halfvim/N-Gram/wiki/Introduction) page.
+
 This project is implemented in Python. To run this program, you need Python 2.7 installed.
 
 To run the program, open terminal in Mac OS X or Linux, open console window in Windows, change the directory to the project directory.
