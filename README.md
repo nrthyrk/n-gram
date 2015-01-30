@@ -1,6 +1,6 @@
 # Semantic Analysis of Movie Reviews using Character N-gram
 
-In this project, semantic analysis of movie reviews is done by using character [n-gram](https://github.com/halfvim/N-Gram/wiki/N-gram). The review data is in the folder `data`. Reviews in `data/pos` are semantically positive, while reviews in `data/neg` are semantically negative. [Leave-one-out cross validation](https://github.com/halfvim/N-Gram/wiki/Leave-one-out-Cross-Validation) is implemented to test the accuracy of both [`out-of-place distance measure`](https://github.com/halfvim/N-Gram/wiki/Out-of-place-Distance-Measure) and [`Naive Bayes classifier`](https://github.com/halfvim/N-Gram/wiki/Naive-Bayes-Classifier).
+In this project, semantic analysis of movie reviews is done by using character [n-gram](https://github.com/halfvim/N-Gram/wiki/N-gram). The review data is in the folder `data`. Reviews in `data/pos` are semantically positive, while reviews in `data/neg` are semantically negative. [Leave-one-out cross validation](https://github.com/halfvim/N-Gram/wiki/Leave-one-out-Cross-Validation) is implemented to test the accuracy of both [out-of-place distance measure](https://github.com/halfvim/N-Gram/wiki/Out-of-place-Distance-Measure) and [Naive Bayes classifier](https://github.com/halfvim/N-Gram/wiki/Naive-Bayes-Classifier).
 
 An introduction of this project can be found at the [wiki](https://github.com/halfvim/N-Gram/wiki/Introduction) page.
 
