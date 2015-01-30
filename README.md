@@ -27,4 +27,4 @@ To run 3-gram Naive Bayes algorithm with part of the cross validation, you shoul
 python ngram.py nb 3 100 200
 ```
 
-The accuracy results of the two algorithm is [here](https://github.com/halfvim/N-Gram/wiki/Results).
+The accuracy results of the two algorithms are [here](https://github.com/halfvim/N-Gram/wiki/Results).
